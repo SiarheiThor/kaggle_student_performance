@@ -1,0 +1,293 @@
+No balancing
+
+XGB model evaluation for question 1
+####################################
+Training Accuracy: 0.7897886427298192
+Training Precision: 0.7992829780964542
+Training Recall: 0.949477860101511
+Training F1 Score: 0.8679305655547557
+Training AUC Score: 0.6564863214228159
+####################################
+XGB model evaluation for question 2
+####################################
+Training Accuracy: 0.9798828622358035
+Training Precision: 0.9800654567093127
+Training Recall: 0.9997832025321944
+Training F1 Score: 0.9898261429491306
+Training AUC Score: 0.5299517215065781
+####################################
+XGB model evaluation for question 3
+####################################
+Training Accuracy: 0.9357015533486122
+Training Precision: 0.9357774753317455
+Training Recall: 0.9997727995637752
+Training F1 Score: 0.9667171950174652
+Training AUC Score: 0.5143558531580934
+####################################
+XGB model evaluation for question 4
+####################################
+Training Accuracy: 0.8401663695781343
+Training Precision: 0.8464940569427808
+Training Recall: 0.9769247128881328
+Training F1 Score: 0.9070444784518933
+Training AUC Score: 0.6380206231668262
+####################################
+XGB model evaluation for question 5
+####################################
+Training Accuracy: 0.711272387742976
+Training Precision: 0.7049949715051961
+Training Recall: 0.813980492336275
+Training F1 Score: 0.7555779111127079
+Training AUC Score: 0.700301031587153
+####################################
+XGB model evaluation for question 6
+####################################
+Training Accuracy: 0.820218996689585
+Training Precision: 0.8233506744625018
+Training Recall: 0.9781764480665098
+Training F1 Score: 0.894110588941106
+Training AUC Score: 0.6256671215517243
+####################################
+XGB model evaluation for question 7
+####################################
+Training Accuracy: 0.7775655716832187
+Training Precision: 0.779750346740638
+Training Recall: 0.9724961079398028
+Training F1 Score: 0.8655222846586098
+Training AUC Score: 0.6032282758705285
+####################################
+XGB model evaluation for question 8
+####################################
+Training Accuracy: 0.6605126899244547
+Training Precision: 0.6540054598512661
+Training Recall: 0.955442480918655
+Training F1 Score: 0.7764955712649138
+Training AUC Score: 0.5701926896222058
+####################################
+XGB model evaluation for question 9
+####################################
+Training Accuracy: 0.7794754265342501
+Training Precision: 0.7821060451295385
+Training Recall: 0.9710053032049804
+Training F1 Score: 0.8663786452707916
+Training AUC Score: 0.6078875888409838
+####################################
+XGB model evaluation for question 10
+####################################
+Training Accuracy: 0.6939139292080468
+Training Precision: 0.6798101217364674
+Training Recall: 0.7455705768746327
+Training F1 Score: 0.7111734080897076
+Training AUC Score: 0.693346517305419
+####################################
+XGB model evaluation for question 11
+####################################
+Training Accuracy: 0.7075800016976488
+Training Precision: 0.7062048342885622
+Training Recall: 0.9343883943290472
+Training F1 Score: 0.8044280442804429
+Training AUC Score: 0.6161759763713832
+####################################
+XGB model evaluation for question 12
+####################################
+Training Accuracy: 0.8663526016467193
+Training Precision: 0.866084363016617
+Training Recall: 0.9997049131952983
+Training F1 Score: 0.9281099468072963
+Training AUC Score: 0.5131692729494609
+####################################
+XGB model evaluation for question 13
+####################################
+Training Accuracy: 0.7726848315083609
+Training Precision: 0.7725072604065828
+Training Recall: 0.24622030237580994
+Training F1 Score: 0.37342068320074867
+Training AUC Score: 0.6093513689864998
+####################################
+XGB model evaluation for question 14
+####################################
+Training Accuracy: 0.7615227909345557
+Training Precision: 0.7635531397511086
+Training Recall: 0.9604174163368118
+Training F1 Score: 0.8507450792891864
+Training AUC Score: 0.620234840572587
+####################################
+XGB model evaluation for question 15
+####################################
+Training Accuracy: 0.7099991511756217
+Training Precision: 0.6859149111937216
+Training Recall: 0.7325745544379743
+Training F1 Score: 0.7084773241179231
+Training AUC Score: 0.7108244051221602
+####################################
+XGB model evaluation for question 16
+####################################
+Training Accuracy: 0.7370766488413547
+Training Precision: 0.7365554799183118
+Training Recall: 0.9998267398209645
+Training F1 Score: 0.8482324407751293
+Training AUC Score: 0.504315482924729
+####################################
+XGB model evaluation for question 17
+####################################
+Training Accuracy: 0.6986249045072574
+Training Precision: 0.6960678754468324
+Training Recall: 0.9972849561890658
+Training F1 Score: 0.8198858592263792
+Training AUC Score: 0.5189660234996444
+####################################
+XGB model evaluation for question 18
+####################################
+Training Accuracy: 0.9511501570325099
+Training Precision: 0.9511252653927813
+Training Recall: 1.0
+Training F1 Score: 0.9749504885851705
+Training AUC Score: 0.5051590713671539
+####################################
+
+With class weights
+
+XGB model evaluation for question 1
+####################################
+Training Accuracy: 0.7397928868517104
+Training Precision: 0.8925413576725614
+Training Recall: 0.7302374423895922
+Training F1 Score: 0.8032729022942403
+Training AUC Score: 0.7477693986593655
+####################################
+XGB model evaluation for question 2
+####################################
+Training Accuracy: 0.8225957049486461
+Training Precision: 0.9969995262409854
+Training Recall: 0.821228808047522
+Training F1 Score: 0.9006181645268663
+Training AUC Score: 0.8535001755668472
+####################################
+XGB model evaluation for question 3
+####################################
+Training Accuracy: 0.7532043120278414
+Training Precision: 0.9824791418355184
+Training Recall: 0.7491252783205343
+Training F1 Score: 0.8500786345940651
+Training AUC Score: 0.7800288771023894
+####################################
+XGB model evaluation for question 4
+####################################
+Training Accuracy: 0.7568966980731686
+Training Precision: 0.9192845236568791
+Training Recall: 0.7623883453849426
+Training F1 Score: 0.8335174097541127
+Training AUC Score: 0.7487793641102247
+####################################
+XGB model evaluation for question 5
+####################################
+Training Accuracy: 0.7087259146082675
+Training Precision: 0.7329383703931677
+Training Recall: 0.7374206533519121
+Training F1 Score: 0.735172679915107
+Training AUC Score: 0.7056607212644566
+####################################
+XGB model evaluation for question 6
+####################################
+Training Accuracy: 0.7449707155589509
+Training Precision: 0.9031135049921177
+Training Recall: 0.752010063993874
+Training F1 Score: 0.8206643387948787
+Training AUC Score: 0.7363005425102919
+####################################
+XGB model evaluation for question 7
+####################################
+Training Accuracy: 0.7164077752313046
+Training Precision: 0.8755724652997957
+Training Recall: 0.716542697341867
+Training F1 Score: 0.788115169964485
+Training AUC Score: 0.7162871068314094
+####################################
+XGB model evaluation for question 8
+####################################
+Training Accuracy: 0.6409048467871997
+Training Precision: 0.7492622950819672
+Training Recall: 0.6285498177817507
+Training F1 Score: 0.683618143065475
+Training AUC Score: 0.6446884802402488
+####################################
+XGB model evaluation for question 9
+####################################
+Training Accuracy: 0.7188693659281895
+Training Precision: 0.8664069974033074
+Training Recall: 0.7308623472446392
+Training F1 Score: 0.792883496967044
+Training AUC Score: 0.708125090584019
+####################################
+XGB model evaluation for question 10
+####################################
+Training Accuracy: 0.692768016297428
+Training Precision: 0.6823079325421612
+Training Recall: 0.7338147619447477
+Training F1 Score: 0.7071246510498846
+Training AUC Score: 0.6923171466979381
+####################################
+XGB model evaluation for question 11
+####################################
+Training Accuracy: 0.6868686868686869
+Training Precision: 0.7848416124076377
+Training Recall: 0.7074183976261128
+Training F1 Score: 0.7441215232017757
+Training AUC Score: 0.6785871314080308
+####################################
+XGB model evaluation for question 12
+####################################
+Training Accuracy: 0.7125456243103302
+Training Precision: 0.9314623902252768
+Training Recall: 0.7198642600698372
+Training F1 Score: 0.8121064166227425
+Training AUC Score: 0.6931622322337417
+####################################
+XGB model evaluation for question 13
+####################################
+Training Accuracy: 0.7211187505305152
+Training Precision: 0.49526444609981907
+Training Recall: 0.7179882752236963
+Training F1 Score: 0.5861830090056048
+Training AUC Score: 0.7201475333963915
+####################################
+XGB model evaluation for question 14
+####################################
+Training Accuracy: 0.7203548085901027
+Training Precision: 0.846873495219096
+Training Recall: 0.7383351325416817
+Training F1 Score: 0.7888885328890456
+Training AUC Score: 0.7075822004171823
+####################################
+XGB model evaluation for question 15
+####################################
+Training Accuracy: 0.7086834733893558
+Training Precision: 0.6740654205607477
+Training Recall: 0.7636315510852303
+Training F1 Score: 0.7160585753288657
+Training AUC Score: 0.7106921249047349
+####################################
+XGB model evaluation for question 16
+####################################
+Training Accuracy: 0.6519820049231814
+Training Precision: 0.8391249348909889
+Training Recall: 0.6512850129945135
+Training F1 Score: 0.7333680171684984
+Training AUC Score: 0.6525994458281356
+####################################
+XGB model evaluation for question 17
+####################################
+Training Accuracy: 0.6367880485527544
+Training Precision: 0.8045070871157828
+Training Recall: 0.6234110823151919
+Training F1 Score: 0.702475316367682
+Training AUC Score: 0.6448349593196405
+####################################
+XGB model evaluation for question 18
+####################################
+Training Accuracy: 0.7729819200407436
+Training Precision: 0.9893238434163701
+Training Recall: 0.7694986383320684
+Training F1 Score: 0.8656738906607067
+Training AUC Score: 0.8047837129751485
+####################################
