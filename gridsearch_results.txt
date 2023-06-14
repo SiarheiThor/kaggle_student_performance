@@ -1,0 +1,58 @@
+Class weight V1
+
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 1: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 5, 'n_estimators': 500, 'scale_pos_weight': 0.3745989148824456, 'subsample': 0.8}
+F1 score: 0.826861871419478, AUC score: 0.8619466195169119, Accuracy: 0.7691197691197691
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 2: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 5, 'n_estimators': 400, 'scale_pos_weight': 0.02163638728699649, 'subsample': 0.8}
+F1 score: 0.9086272843178921, AUC score: 0.9389006517566199, Accuracy: 0.8357524828113063
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 3: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 5, 'n_estimators': 400, 'scale_pos_weight': 0.21197800699777342, 'subsample': 0.8}
+F1 score: 0.9660507090674688, AUC score: 0.9175179718467246, Accuracy: 0.9362957304133774
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 4: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 4, 'n_estimators': 400, 'scale_pos_weight': 1.0, 'subsample': 0.8}
+F1 score: 0.9079227005387238, AUC score: 0.8341494914309775, Accuracy: 0.8418640183346066
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 5: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 5, 'n_estimators': 500, 'scale_pos_weight': 1.0, 'subsample': 0.8}
+F1 score: 0.8012283236994219, AUC score: 0.8474390453145355, Accuracy: 0.7664884135472371
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 6: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 5, 'n_estimators': 500, 'scale_pos_weight': 1.0, 'subsample': 0.8}
+F1 score: 0.9039479958838441, AUC score: 0.8793674449086175, Accuracy: 0.8375774552245141
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 7: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 5, 'n_estimators': 500, 'scale_pos_weight': 1.0, 'subsample': 0.8}
+F1 score: 0.8830845771144278, AUC score: 0.8681782415734473, Accuracy: 0.8085052202699261
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 8: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 4, 'n_estimators': 400, 'scale_pos_weight': 0.6201609021522382, 'subsample': 0.8}
+F1 score: 0.7143701078127308, AUC score: 0.7421714068118603, Accuracy: 0.6716747304982599
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 9: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 5, 'n_estimators': 400, 'scale_pos_weight': 1.074590730919991, 'subsample': 0.8}
+F1 score: 0.8777500450299772, AUC score: 0.8430903948175663, Accuracy: 0.7983617689500042
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 10: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 5, 'n_estimators': 400, 'scale_pos_weight': 0.9785036526996389, 'subsample': 0.8}
+F1 score: 0.7450741911943566, AUC score: 0.8142436727177147, Accuracy: 0.7331296154825566
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 11: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 4, 'n_estimators': 500, 'scale_pos_weight': 0.5537091988130564, 'subsample': 0.8}
+F1 score: 0.7589094180333542, AUC score: 0.7719336592861792, Accuracy: 0.7042695866225278
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 12: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 5, 'n_estimators': 400, 'scale_pos_weight': 1.0, 'subsample': 0.8}
+F1 score: 0.9316989345858632, AUC score: 0.8750935054598903, Accuracy: 0.8734827264239029
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 13: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 5, 'n_estimators': 500, 'scale_pos_weight': 1.0, 'subsample': 0.8}
+F1 score: 0.46892845146120254, AUC score: 0.8590548082349465, Accuracy: 0.7987012987012987
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 14: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 4, 'n_estimators': 500, 'scale_pos_weight': 0.41309823677581864, 'subsample': 0.8}
+F1 score: 0.7994378254064587, AUC score: 0.7979451802530928, Accuracy: 0.7335115864527629
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 15: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 4, 'n_estimators': 500, 'scale_pos_weight': 1.0, 'subsample': 0.8}
+F1 score: 0.71987681252406, AUC score: 0.799595986502901, Accuracy: 0.722052457346575
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 16: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 4, 'n_estimators': 250, 'scale_pos_weight': 1.0, 'subsample': 0.8}
+F1 score: 0.8482324407751293, AUC score: 0.7191607813506187, Accuracy: 0.7370766488413547
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 17: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 4, 'n_estimators': 400, 'scale_pos_weight': 1.0, 'subsample': 0.8}
+F1 score: 0.8237752969363307, AUC score: 0.7576935929985719, Accuracy: 0.7065614124437654
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+Best parameters for question 18: {'alpha': 8, 'colsample_bytree': 0.5, 'learning_rate': 0.02, 'max_depth': 4, 'n_estimators': 400, 'scale_pos_weight': 0.15576588240546452, 'subsample': 0.8}
+F1 score: 0.9663995690525891, AUC score: 0.9077855436443335, Accuracy: 0.9364654952890247
+
+#####################################################################################################################################################################
